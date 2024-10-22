@@ -7,12 +7,3 @@ Name Name:
   bio         : "Undergraduate researcher interested in computer vision and generative AI."
   avatar      : "images/me.jpg"
   twitter     : "https://x.com/luke_y"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
