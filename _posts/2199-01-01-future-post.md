@@ -1,11 +1,9 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'The First Blog'
+date: 2024-10-22
+permalink: /posts/2024/10/the-first-blog
 tags:
-  - cool posts
-  - category1
-  - category2
+  - daily-life
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This is my very first blog. I'm writing this as I am making this website. It was supposed to be short project to make this website but it has been almost 3 hours in... Life is great.
