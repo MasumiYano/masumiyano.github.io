@@ -1,12 +1,12 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Masumi Yano" 
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
+  email       : "masumi76@uw.edu" 
+  bio         : "Undergraduate researcher interested in computer vision and generative AI."
+  avatar      : "images/me.jpg"
+  twitter     : "https://x.com/luke_y"
   google_plus : "Name"
 
 Name2 Name2:
