@@ -12,8 +12,6 @@ I have multiple computer vision project in my [Github](https://github.com/Masumi
 
 Research Interest
 ======
-## Research Interests
-
 **Computer Vision (CV)**
 I'm passionate about developing sophisticated computer vision systems that can understand visual information as humans do. My research journey began with building a comprehensive CV library from scratch, mastering everything from fundamental pixel manipulation to complex tasks like edge detection and panorama stitching. Through projects like automated "Where's Waldo?" detection  and encrypted image classification, I've gained deep insights into both the capabilities and limitations of traditional CV systems. I'm particularly interested in exploring hybrid approaches that combine traditional CV with vision-language models to enhance efficiency and accuracy through semantic understanding.
 
