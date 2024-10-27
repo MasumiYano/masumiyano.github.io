@@ -12,6 +12,13 @@ I have multiple computer vision project in my [Github](https://github.com/Masumi
 
 Research Interest
 ======
-**Research In Computer Vision**: I'm interested in computer vision, which began while reading a machine learning book to chatch up with Privacy-Preserving Machine Learning lab. Although there are no professors specializing in computer vision at my campus, I audited a class from another campus to learn more about the field. In computer vision research, I aim to apply computer vision to improve accessibility for those in need.  
+## Research Interests
 
-**Research In Generative AI**: I'm interested in generative AI, which deepened during the last class of the CV class. To better understand the concept, I read about Generative Adversarial Networks (GANs) and the Denoising Diffusion Probabilistic Models (DDPM) paper after the class. I believe there are many applications for diffusion models, and I'm excited to explore them further. 
+**Computer Vision (CV)**
+I'm passionate about developing sophisticated computer vision systems that can understand visual information as humans do. My research journey began with building a comprehensive CV library from scratch, mastering everything from fundamental pixel manipulation to complex tasks like edge detection and panorama stitching. Through projects like automated "Where's Waldo?" detection  and encrypted image classification, I've gained deep insights into both the capabilities and limitations of traditional CV systems. I'm particularly interested in exploring hybrid approaches that combine traditional CV with vision-language models to enhance efficiency and accuracy through semantic understanding.
+
+**Generative AI & Multi-Modal Systems**
+My fascination with generative AI evolved from theoretical foundations to practical applications, especially after attending CVPR 2024. While well-versed in the evolution from GANs to Diffusion Models, I'm particularly intrigued by novel applications beyond image synthesis. I'm interested in investigating how we can leverage generative models for structured problem-solving and decision-making, inspired by applications like autonomous vehicle path finding using diffusion models. My current research focus lies in:
+- Developing efficient architectures for vision-language models
+- Integrating generative models with structured reasoning systems
+- Exploring practical applications that combine the semantic understanding of language models with traditional CV approaches
