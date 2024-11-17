@@ -12,11 +12,6 @@ I have multiple computer vision project in my [Github](https://github.com/Masumi
 
 Research Interest
 ======
-**Computer Vision (CV)**
-I'm passionate about developing sophisticated computer vision systems that can understand visual information as humans do. My research journey began with building a comprehensive CV library from scratch, mastering everything from fundamental pixel manipulation to complex tasks like edge detection and panorama stitching. Through projects like automated "Where's Waldo?" detection  and encrypted image classification, I've gained deep insights into both the capabilities and limitations of traditional CV systems. I'm particularly interested in exploring hybrid approaches that combine traditional CV with vision-language models to enhance efficiency and accuracy through semantic understanding.
-
-**Generative AI & Multi-Modal Systems**
-My fascination with generative AI evolved from theoretical foundations to practical applications, especially after attending CVPR 2024. While well-versed in the evolution from GANs to Diffusion Models, I'm particularly intrigued by novel applications beyond image synthesis. I'm interested in investigating how we can leverage generative models for structured problem-solving and decision-making, inspired by applications like autonomous vehicle path finding using diffusion models. My current research focus lies in:
-- Developing efficient architectures for vision-language models
-- Integrating generative models with structured reasoning systems
-- Exploring practical applications that combine the semantic understanding of language models with traditional CV approaches
+1. Advancing multi-modal Computer Vision. Integrate vision with langauge to improve semantic understanding.
+2. Explore Generative AI application in structured decision-making.
+3. Explore application of these technologies in real-world scenarios.
