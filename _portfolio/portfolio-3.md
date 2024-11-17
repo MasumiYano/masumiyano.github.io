@@ -1,6 +1,6 @@
 ---
 title: "Oh Here's Waldo"
-excerpt: "Computer Vision algorithm to detect waldo from noisey background.<br/><img src='oh_here_is_waldo.png'>"
+excerpt: "Computer Vision algorithm to detect waldo from noisey background.<br/><img src='/images/oh_here_is_waldo.png'>"
 collection: portfolio
 ---
 
